@@ -5,7 +5,7 @@ body {
     margin: 0;
     }
 .hero-bg {
-    background: #307D99 url('images/rasberry.jpg');
+    background: #307D99 url('\rasberry.jpg');
     background-position: -21%;
     background-size: 45rem;
     color: rgb(12, 9, 175);
